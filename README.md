@@ -1,4 +1,4 @@
-# [aaronwizard.github.io](aaronwizard.github.io)
+# [aaronwizard.github.io](https://aaronwizard.github.io)
 
 My home page for sharing different projects.
 
